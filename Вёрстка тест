@@ -1,0 +1,228 @@
+                                                                                     Step 1
+
+
+<vim-instruction>Read the text and select answer</vim-instruction>
+
+                                                                                                                    // Текст разбит несколькими переносами в целях эргономики. //
+
+<p>I remember when I was about eight or nine, I had a pet. It was my first pet, actually, and it was a little budgie called Ollie. 
+I named her Ollie because it was the year of the Olympics … I can't remember which year it was. But this bird was really unusual because, quite quickly she became very tame. 
+And I used to come home from school and I'd pick her up off whatever she was perching and I'd take her upstairs  and she'd sit on the side of the bed. 
+I don't know what actually happened to her because one day,  we all got so used to just her being round the house,  that one day my mother came in with some washing, 
+the back door was open, and she just flew off and, er, we never found her again. It's a bit sad, really …</p>
+
+<vim-test>
+  <vim-test-question>
+    <vim-test-question-text>The best title is...</vim-test-question-text>
+    <vim-test-answers>
+      <vim-test-item>a memorable celebration</vim-test-item>
+      <vim-test-item correct="true">a story about a childhood pet</vim-test-item>
+      <vim-test-item>a time I was really frightened</vim-test-item>
+    </vim-test-answers>
+  </vim-test-question>
+</vim-test>
+
+<p>The boat started floating out towards the sea and also, at the same time, the weather changed. It became very windy and the sea got choppy and we were quite scared. 
+So, when we looked in the boat, the radio didn't work, so we couldn't ask for any help. We thought we were gonna be stuck here all night because we had no way of contacting anybody.
+But in the end, it was OK because my girlfriend managed  to find the telephone number of the people who gave us the boat, so, after about half an hour maybe, 
+they came and rescued us, but at the time it was, er, we were very worried and very scared.</p>
+
+<vim-test>
+  <vim-test-question>
+    <vim-test-question-text>The best title is...</vim-test-question-text>
+    <vim-test-answers>
+      <vim-test-item>meeting a famous person</vim-test-item>
+      <vim-test-item correct="true">a trip I'll never forget</vim-test-item>
+      <vim-test-item>a childhood accident</vim-test-item>
+    </vim-test-answers>
+  </vim-test-question>
+</vim-test>
+
+<p>It was a time when I was really frightened and  it was about two years ago,  when I was on holiday in Sicily. And one afternoon we decided to hire a boat to go and sail round the coast. 
+It started off quite nicely, it was, the sun was shining and, you know, we were sunbathing.  But then we decided to drop the anchor and stay still for a little while, 
+but I didn't know that you shouldn't use the engine when the anchor is dropped.  So somehow the rope got tangled up  in the engine and the engine stopped working.</p>
+
+<vim-test>
+  <vim-test-question>
+    <vim-test-question-text>The best title is...</vim-test-question-text>
+    <vim-test-answers>
+      <vim-test-item correct="true">the time when I was really frightened</vim-test-item>
+      <vim-test-item>meeting someone important in my life</vim-test-item>
+      <vim-test-item>a memorable celebration</vim-test-item>
+    </vim-test-answers>
+  </vim-test-question>
+</vim-test>
+
+                                                                          // Я старался поддерживать соответствие исходному виду, но валидатор ругается на тег <p> в списках. //
+
+<vim-instruction>Complete the sentences with Past Simple or Past Continuous</vim-instruction>
+<ol>
+<li>They stood under the shelter because it <vim-select>
+ <vim-select-answers>
+   <vim-select-item correct=""true"">
+     <vim-select-item-title>was raining</vim-select-item-title>
+   </vim-select-item>
+   <vim-select-item>
+     <vim-select-item-title>rained</vim-select-item-title>
+   </vim-select-item>
+ </vim-select-answers>
+</vim-select>.</li>
+
+<li>When she opened the window she was happy to see it <vim-select>
+ <vim-select-answers>
+   <vim-select-item correct=""true"">
+     <vim-select-item-title>was snowing</vim-select-item-title>
+   </vim-select-item>
+   <vim-select-item>
+     <vim-select-item-title>snowed</vim-select-item-title>
+   </vim-select-item>
+ </vim-select-answers>
+</vim-select> lightly.</li>
+
+<li>When Mrs Morgan <vim-select>
+ <vim-select-answers>
+   <vim-select-item correct=""true"">
+     <vim-select-item-title>entered</vim-select-item-title>
+   </vim-select-item>
+   <vim-select-item>
+     <vim-select-item-title>was entering</vim-select-item-title>
+   </vim-select-item>
+ </vim-select-answers>
+</vim-select> the classroom the kids <vim-select>
+ <vim-select-answers>
+   <vim-select-item correct=""true"">
+     <vim-select-item-title>were running</vim-select-item-title>
+   </vim-select-item>
+   <vim-select-item>
+     <vim-select-item-title>ran</vim-select-item-title>
+   </vim-select-item>
+ </vim-select-answers>
+</vim-select> around and screaming at the top of their voices.</li>
+
+<li>About 100 people<vim-select>
+ <vim-select-answers>
+   <vim-select-item>
+     <vim-select-item-title>queued</vim-select-item-title>
+   </vim-select-item>
+   <vim-select-item correct="true">
+     <vim-select-item-title>were queueing</vim-select-item-title>
+   </vim-select-item>
+ </vim-select-answers>
+</vim-select>outside the theatre for tickets when we <vim-select>
+ <vim-select-answers>
+   <vim-select-item correct="true">
+     <vim-select-item-title>got</vim-select-item-title>
+   </vim-select-item>
+   <vim-select-item>
+     <vim-select-item-title>were getting</vim-select-item-title>
+   </vim-select-item>
+ </vim-select-answers>
+</vim-select> there.</li>
+
+<li>This time last week <vim-select>
+ <vim-select-answers>
+   <vim-select-item>
+     <vim-select-item-title>was driving</vim-select-item-title>
+   </vim-select-item>
+   <vim-select-item correct="true">
+     <vim-select-item-title>drove</vim-select-item-title>
+   </vim-select-item>
+ </vim-select-answers>
+</vim-select> to Athens.</li>
+
+<li>I <vim-select>
+ <vim-select-answers>
+   <vim-select-item correct="true">
+     <vim-select-item-title>was having</vim-select-item-title>
+   </vim-select-item>
+   <vim-select-item>
+     <vim-select-item-title>had</vim-select-item-title>
+   </vim-select-item>
+ </vim-select-answers>
+</vim-select> a shower when the telephone <vim-select>
+ <vim-select-answers>
+   <vim-select-item correct="true">
+     <vim-select-item-title>rang</vim-select-item-title>
+   </vim-select-item>
+   <vim-select-item>
+     <vim-select-item-title>was ringing</vim-select-item-title>
+   </vim-select-item>
+ </vim-select-answers>
+</vim-select>.</li>
+
+<li>I <vim-select>
+ <vim-select-answers>
+   <vim-select-item>
+     <vim-select-item-title>was picking</vim-select-item-title>
+   </vim-select-item>
+   <vim-select-item correct="true">
+     <vim-select-item-title>picked up</vim-select-item-title>
+   </vim-select-item>
+ </vim-select-answers>
+</vim-select> my mobile phone and texted my friend Rachel.</li>
+</ol>
+
+
+
+                                                                                     STEP 2
+
+
+<vim-instruction>Match the questions to the answers</vim-instruction>
+
+<vim-dnd-group>
+  <vim-dnd-group-drags>
+    <vim-dnd-group-drag id="1">I am Max.</vim-dnd-group-drag>
+    <vim-dnd-group-drag id="2">I am 14.</vim-dnd-group-drag>
+    <vim-dnd-group-drag id="3">I am fine!</vim-dnd-group-drag>
+    <vim-dnd-group-drag id="4">I am from Russia.</vim-dnd-group-drag>
+    <vim-dnd-group-drag id="5">It is green.</vim-dnd-group-drag>
+    <vim-dnd-group-drag id="6">It is 1-112-334-556.</vim-dnd-group-drag>
+  </vim-dnd-group-drags>
+  <vim-dnd-group-groups>
+    <vim-dnd-group-item drag-ids="1">
+      <vim-dnd-group-item-caption>What's your name?</vim-dnd-group-item-caption>
+    </vim-dnd-group-item>
+    <vim-dnd-group-item drag-ids="2">
+      <vim-dnd-group-item-caption>How old are you?</vim-dnd-group-item-caption>
+    </vim-dnd-group-item>
+    <vim-dnd-group-item drag-ids="3,4">
+      <vim-dnd-group-item-caption>What's up?</vim-dnd-group-item-caption>
+    </vim-dnd-group-item>
+    <vim-dnd-group-item drag-ids="4">
+      <vim-dnd-group-item-caption>Where are you from?</vim-dnd-group-item-caption>
+    </vim-dnd-group-item>
+    <vim-dnd-group-item drag-ids="5">
+      <vim-dnd-group-item-caption>What's your favourite color?</vim-dnd-group-item-caption>
+    </vim-dnd-group-item>
+    <vim-dnd-group-item drag-ids="6">
+      <vim-dnd-group-item-caption>What's your phone number?</vim-dnd-group-item-caption>
+    </vim-dnd-group-item>
+  </vim-dnd-group-groups>
+</vim-dnd-group>
+
+
+
+<vim-instruction>Read the sentences and complete them with the words from the box</vim-instruction>
+
+<vim-dnd-text>
+  <vim-dnd-text-drags>
+    <vim-dnd-text-drag id="1">I</vim-dnd-text-drag>
+    <vim-dnd-text-drag id="2">am</vim-dnd-text-drag>
+    <vim-dnd-text-drag id="3">They</vim-dnd-text-drag>
+    <vim-dnd-text-drag id="4">are</vim-dnd-text-drag>
+    <vim-dnd-text-drag id="5">is</vim-dnd-text-drag>
+    <vim-dnd-text-drag id="6">He</vim-dnd-text-drag>
+    <vim-dnd-text-drag id="7">She</vim-dnd-text-drag>
+  </vim-dnd-text-drags>
+  <vim-dnd-text-content>
+    Hello! My name is Tanya. <vim-dnd-text-drop drag-ids="1"> am from Russia. 
+    I <vim-dnd-text-drop drag-ids="2"> Russian. 
+    I have friends. <vim-dnd-text-drop drag-ids="3"> are from Russia, too. 
+    They <vim-dnd-text-drop drag-ids="4"> Russian. 
+    Roma <vim-dnd-text-drop drag-ids="5"> fifteen.
+    <vim-dnd-text-drop drag-ids="6"> is a punk. Lena is fourteen. 
+    <vim-dnd-text-drop drag-ids="7"> is a gamer.
+  </vim-dnd-text-content>
+</vim-dnd-text>
+
+                                                                                                                    // Текст разбит несколькими переносами в целях эргономики. //
